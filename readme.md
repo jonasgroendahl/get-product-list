@@ -1,4 +1,4 @@
-# Guide - How to scrape a online store / List of products
+# Guide - How to collect data from an online store / List of products using Puppeteer
 
 ### 1 - Take a tour of the site with dev tools open
 
